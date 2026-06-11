@@ -29,7 +29,7 @@ Documentar o processo de comunicação com a IA é fundamental para demonstrar o
 * **Resultado:** A resposta foi muito superficial e misturou IA na administração hospitalar com diagnóstico, fugindo do foco do meu objetivo.
 
 ### Prompt Refinado (Estratégico)
-> 🤖 **O que perguntei:** *"Com base exclusivamente nos Artigos 1 e 2, crie uma tabela comparativa listando as 3 principais vantagens do Deep Learning na radiologia e as 3 maiores barreiras éticas citadas pelos autores."*
+> **O que perguntei:** *"Com base exclusivamente nos Artigos 1 e 2, crie uma tabela comparativa listando as 3 principais vantagens do Deep Learning na radiologia e as 3 maiores barreiras éticas citadas pelos autores."*
 * **Resultado:** Excelente. O NotebookLM restringiu o escopo, trouxe dados cruzados e gerou uma tabela limpa e factual, citando as páginas de referência.
 
 ### Cicatrizes e Aprendizados (Troubleshooting)
